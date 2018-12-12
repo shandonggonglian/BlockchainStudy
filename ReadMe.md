@@ -1,9 +1,9 @@
 ## 区块链入门课程
 以下是山东公链提供的公益性区块链入门课程，本课程将会从区块链的基本内容讲起，包括后续的区块链的底层架构都会讲到，目的就是希望更多的人能了解区块链，使用区块链，而不仅仅是炒币。
 
-1.[第一课：区块链综述](https://github.com/tcld2269/Blockchain-Study/blob/master/%E7%AC%AC%E4%B8%80%E8%AF%BE%EF%BC%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E7%BB%BC%E8%BF%B0.md)
+1.[第一课：区块链综述](%E7%AC%AC%E4%B8%80%E8%AF%BE%EF%BC%9A%E5%8C%BA%E5%9D%97%E9%93%BE%E7%BB%BC%E8%BF%B0.md)
 
-2.[第二课：共识机制](https://github.com/tcld2269/Blockchain-Study/blob/master/%E7%AC%AC%E4%BA%8C%E8%AF%BE%EF%BC%9A%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6.md)
+2.[第二课：共识机制](%E7%AC%AC%E4%BA%8C%E8%AF%BE%EF%BC%9A%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6.md)
 
 3.第三课：区块链的激励机制
 
